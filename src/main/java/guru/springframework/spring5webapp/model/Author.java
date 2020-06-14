@@ -5,9 +5,6 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
-/**
- * Created by jt on 5/16/17.
- */
 @Entity
 public class Author {
 
